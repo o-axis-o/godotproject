@@ -21,8 +21,8 @@ Start building worlds with the free [Sprout Lands Asset Pack](https://cupnooble.
 3.  Move the `addons/sprout_lands_tilemap` folder into your project's `addons/` folder.  
 4.  Open/Reload the project.  
 5.  Enable the plugin from the Project Settings > Plugins tab.  
-    If it's enabled for the first time,
-    1.  A dialogue window will appear asking to copy the example scenes out of `addons/`.
+	If it's enabled for the first time,
+	1.  A dialogue window will appear asking to copy the example scenes out of `addons/`.
 
 ## Usage
 
